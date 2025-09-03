@@ -18,6 +18,8 @@
 
             int average = total / count;
             Console.WriteLine("Average: " + average);
+
+            int x = 10;
         }
     }
 }
